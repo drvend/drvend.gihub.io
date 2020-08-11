@@ -1,6 +1,5 @@
----
+
 My First Blog Post 
----
 
 What do you think being a data scientist is about? 
 
