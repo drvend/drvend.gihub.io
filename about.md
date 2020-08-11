@@ -1,13 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+
 ---
 
-Some information about you!
+Student at NCSU 
 
 ### More Information
-Student at NCSU 
+
 
 ### Contact me
 
