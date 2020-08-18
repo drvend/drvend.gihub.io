@@ -6,10 +6,10 @@
 **Student at NCSU**
 
 *Interests  
-  +Disc Golf  
-  +Bourbon  
-  +Weight Lifting  
-  +Stand Up Paddleboarding  
+    +Disc Golf  
+    +Bourbon  
+    +Weight Lifting  
+    +Stand Up Paddleboarding  
 
 
 
