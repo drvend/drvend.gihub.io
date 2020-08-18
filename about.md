@@ -1,8 +1,17 @@
 ---
 
 ---
+*DRV* 
 
-Student at NCSU 
+**Student at NCSU**
+
+*Interests  
+  +Disc Golf  
+  +Bourbon  
+  +Weight Lifting  
+  +Stand Up Paddleboarding  
+
+
 
 ### Contact me
 
