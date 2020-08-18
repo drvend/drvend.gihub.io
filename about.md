@@ -13,7 +13,7 @@
 
 <br>
 
-###Quick CV
+### Quick CV
 Activity       | Dates 
 ---------------|---------------
 Undergrad      | 2012-2016
